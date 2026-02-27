@@ -1,0 +1,230 @@
+---
+title: "nutriverse"
+subtitle: Project Launch
+date: 27 February 2026
+date-modified: last-modified
+date-format: "DD MMMM YYYY"
+title-slide-attributes: 
+  data-background-color: "#004225"
+  data-background-image: images/nutriverse_banner.png
+  data-background-size: auto
+  data-background-opacity: "0.5"
+---
+
+## nutriverse? {.center background-color="#004225"}
+
+
+## nutriverse is {.center}
+
+:::: {.columns}
+
+::: {.column width="33.33%"}
+
+![](images/open_source.svg){fig-align="center"}
+
+:::
+
+::: {.column width="33.33%"}
+
+![](images/collective.svg){fig-align="center"}
+
+:::
+
+::: {.column width="33.33%"}
+
+![](images/practice.svg){fig-align="center"}
+
+:::
+
+
+::::
+
+
+## Open source {.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/open_source_base.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+* Developing robust, well-tested, and performant R packages for nutrition data analysis
+
+* Provide reliable tools that support the full lifecycle of nutrition analytics, from data ingestion and cleaning to statistical analysis, modelling, and reproducible reporting.
+
+:::
+
+::::
+
+
+## Collective {.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+* Core team of people committed to transforming how nutrition data is used, understood, and shared. 
+
+* We believe that better, more transparent nutrition data analytics can challenge inequities, strengthen public health, and support food systems that work for everyone.
+
+* Through collaboration and open tools, we push for analytical practices that are rigorous, reproducible, and accountable.
+
+* We share power and knowledge, support one another’s work, and turn nutrition data into a force for social and health justice.
+
+:::
+
+::: {.column width="50%"}
+
+![](images/collective_base.png){fig-align="center"}
+
+:::
+
+::::
+
+
+## Community of practice {.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/practice_base.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+* Brings together nutrition data analysts, researchers, and practitioners who are committed to learning from one another.
+
+* Provides a shared space to exchange methods, tools, and real-world experiences across research, policy, and practice.
+
+* Through peer learning, collaborative problem-solving, and open discussion, the community supports rigorous, reproducible analytics.
+
+:::
+
+::::
+
+
+## nutriverse so far ... {.center background-color="#004225"}
+
+
+## {.center}
+
+![](images/packages.svg){fig-align="center"}
+
+
+## Anthropometric surveys workflow {.center}
+
+![](images/anthro_survey.svg){fig-align="center"}
+
+
+## Dietary assessment workflow {.center}
+
+![](images/diet.svg){fig-align="center"}
+
+
+## CMAM coverage assessment workflow {.center}
+
+![](images/cmam.svg){fig-align="center"}
+
+
+## nutriverse and friends {.center background-color="#004225"}
+
+
+## RapidSurveys {.center}
+
+![](images/rapidsurveys.svg){fig-align="center"}
+
+
+## What else and what next? {.center}
+
+* Multilingual documentation and publishing
+
+* Packages for accessing nutrition data
+
+* Packages for standardising nutrition data to ensure interoperability
+
+* Production-grade nutrition analytics applications
+
+
+## nutriverse community {.center background-color="#004225"}
+
+
+## {.center}
+
+### Go to the people. Live with them. Learn from them. Love them. Start with what they know. Build with what they have. But with the best leaders, when the work is done, the task accomplished, the people will say **‘We have done it ourselves’**.
+
+#### - Lao Tzu
+
+## Our community is our greatest asset, diversity our greatest strength {.center}
+
+:::: {.columns}
+
+::: {.column width="20%"}
+
+![Explore](images/explore.svg){fig-align="center"}
+
+:::
+
+::: {.column width="20%"}
+
+![Link](images/link.svg){fig-align="center"}
+
+:::
+
+::: {.column width="20%"}
+
+![Learn](images/learn.svg){fig-align="center"}
+
+:::
+
+::: {.column width="20%"}
+
+![Create](images/create.svg){fig-align="center"}
+
+:::
+
+::: {.column width="20%"}
+
+![Support](images/support.svg){fig-align="center"}
+
+:::
+
+::::
+
+
+## Explore {.center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/explore.svg){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+* Explore and discover packages that facilitate research and/or programme monitoring and evaluation
+
+* Access open health and nutrition data
+
+* Explore and discover resources on best practices for software development
+
+:::
+
+::::
+
+
+
+
+
+
+
+
+
+

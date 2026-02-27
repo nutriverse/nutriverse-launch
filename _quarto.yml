@@ -1,0 +1,19 @@
+project:
+  title: "nutriverse-launch"
+  output-dir: _slides
+
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    # logo: images/nutriverse_banner_bi.png
+    footer: "[nutriverse](https://nutriverse.io)"
+    css: styles.css
+    include-after-body: title_page.html
+
+# author:
+#   name: Ernest Guevarra
+#   email: ernest@d4dm.org
+#   affiliation: University of Oxford
