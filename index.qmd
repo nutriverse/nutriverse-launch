@@ -220,6 +220,277 @@ title-slide-attributes:
 ::::
 
 
+## Link {.center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+* Belong to a supportive community
+
+* Meet and work with other users and developers of nutriverse packages
+
+* Gain exposure in the open science R community
+
+:::
+
+::: {.column width="50%"}
+
+![](images/link.svg){fig-align="center"}
+
+:::
+
+::::
+
+
+## Learn {.center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/learn.svg){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+* Be informed by reading and listening
+
+* Improve the reproducibility of your research and apply best practices in your work
+
+* Improve your R and software development skills
+
+:::
+
+::::
+
+
+## Create {.center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+* Improve and promote open science in your field
+
+* Influence package development
+
+* Improve package documentation and examples
+
+* Promote best practices for R development
+
+:::
+
+::: {.column width="50%"}
+
+![](images/create.svg){fig-align="center"}
+
+:::
+
+::::
+
+
+## Support {.center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/support.svg){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+* Support nutriverse or give back to open source
+
+* Help other community members
+
+:::
+
+::::
+
+
+## Channels of participation {.center background-color="#004225"}
+
+
+## Zulip {.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/zulip-icon-512x512.png){fig-align="center" width="300px"}
+
+:::
+
+::: {.column width="50%"}
+
+* an organised team chat app designed for efficient communication
+
+* The publicly-available forum can be viewed at [https://nutriverse.zulipchat.com](https://nutriverse.zulipchat.com)
+
+* To join the discussion, you will need to be invited to join the community chat group on Zulip
+
+![](images/qrcode_nutriverse.zulipchat.com.png){fig-align="center" width="150px"}
+
+:::
+
+::::
+
+
+## GitHub {.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/GitHub_Invertocat_Black.png){fig-align="center"}
+
+:::
+
+::: {.column width=50%}
+
+* Service provider of hosting for software development and version control using git
+
+* includes features such as bug tracking, feature request, task management, continuous integration and wikis for every project
+
+* Lowers the barriers to collaboration
+
+![](images/qrcode_github.com.png){fig-align="center" width="150px"}
+
+:::
+
+::::
+
+
+## Socials {.center}
+
+:::: {.columns}
+
+::: {.column width="33.33%"}
+
+[![](images/mastodon_logo.png){fig-align="center" height="250px"}](https://mastodon.social/@nutriverse)
+
+:::
+
+::: {.column width="33.33%"}
+
+[![](images/Bluesky_Logo.svg){fig-align="center" height="250px"}](https://bsky.app/profile/nutriverse.io)
+
+:::
+
+::: {.column width="33.33%"}
+
+[![](images/LinkedIn_logo_initials.png){fig-align="center" height="250px"}](https://www.linkedin.com/company/nutriverse-community)
+
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="33.33%"}
+
+![](images/qrcode_mastodon.social.png){fig-align="center" width="150px"}
+
+:::
+
+::: {.column width="33.33%"}
+
+![](images/qrcode_bsky.app.png){fig-align="center" width="150px"}
+
+:::
+
+::: {.column width="33.33%"}
+
+![](images/qrcode_www.linkedin.com.png){fig-align="center" width="150px"}
+
+:::
+
+::::
+
+
+## Website {.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/qrcode_nutriverse.io.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+* Keep up-to-date with news and announcements from the blog
+
+* Keep up-to-date with latest on nutriverse packages, best practices on software development, and tips on open science and reproducible research practices through our technology notes
+
+* Hear about the latest events
+
+:::
+
+::::
+
+
+## Community Calls {.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/practice_base.png){fig-align="center"}
+
+:::
+
+:::{.column width="50%"}
+
+* quarterly Community Calls to hear about:
+
+    * latest nutriverse developments; 
+    * talk about current and new projects by nutriverse or by our community members;
+    * discuss best practices, and;
+    * listen to Q&As with our nutriverse developers or well-known developers of packages and tools that our community members love to use.
+
+* **first Community Call is on Wednesday, 18 March 2026** featuring Dr [Noam Ross](https://www.noamross.net/), Executive Director of [rOpenSci](https://ropensci.org/).
+
+:::
+
+::::
+
+
+## How are all these funded? {.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/osc_logo.png){fig-align="center"} ![](images/qrcode_opencollective.com.png)
+
+:::
+
+::: {.column width="50%"}
+
+* All software made available to the nutrition community since 2018 with no direct funding
+
+* Some material resources and in-kind inputs through partners
+
+    * University of Oxford for GitHub Pro resources (worth at least $360/year)
+    * Team messaging and chat services via Zulip (worth at least $4000/year)
+
+* At the start of 2026, we have been fortunate to be fiscally-hosted by the [Open Source Collective](https://oscollective.org/)
+
+:::
+
+::::
+
+
+## Questions? {.center background-color="#004225"}
+
+
+
 
 
 
