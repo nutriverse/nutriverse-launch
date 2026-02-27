@@ -14,8 +14,13 @@ title-slide-attributes:
 ## Welcome {.center background-color="#004335"}
 
 
-## {background-video="https://vimeo.com/1168715575?fl=ip&fe=ec"}
+## 
 
+<!-- {background-video="https://player.vimeo.com/video/1168715575"} -->
+
+<!-- {{< video https://player.vimeo.com/video/1168715575 width="100%" height="100%" >}} -->
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1168715575?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;autoplay=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Welcome Message from nutriverse Executive Director Abdoul-Aziz Goza"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## nutriverse? {.center background-color="#004225"}
 
