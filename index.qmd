@@ -493,6 +493,11 @@ title-slide-attributes:
 ::::
 
 
+## Funding (continued)
+
+* With fiscal hosting, we have been approaching foundations and institutions that support open source products to fund developer costs and community building costs
+
+
 ## Questions? {.center background-color="#004225"}
 
 
