@@ -490,6 +490,9 @@ title-slide-attributes:
 ## Questions? {.center background-color="#004225"}
 
 
+## Thank you! {.center background-color="#004225"}
+
+
 
 
 
