@@ -46,6 +46,12 @@ title-slide-attributes:
 ::::
 
 
+::: {.notes}
+
+nutriverse is an open source project, it is a collective, and a community of practice.
+
+:::
+
 ## Open source {.center .smaller}
 
 :::: {.columns}
