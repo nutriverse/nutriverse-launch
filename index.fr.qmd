@@ -11,32 +11,31 @@ title-slide-attributes:
   data-background-opacity: '0.5'
 ---
 
-## Bienvenue sur{.center background-color="#004335"}
+## Bienvenue sur {.center background-color="#004335"}
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## {background-iframe="
-" width="100%" height="100%"}<https://player.vimeo.com/video/1168715575?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;autoplay=1>
+## {background-iframe="https://player.vimeo.com/video/1168715575?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;autoplay=1" width="100%" height="100%"}
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## nutriverse ?{.center background-color="#004225"}
+## nutriverse? {.center background-color="#004225"}
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## nutriverse est{.center}
+## nutriverse est {.center}
 
 :::: {.columns}
 
@@ -62,7 +61,7 @@ title-slide-attributes:
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
@@ -72,7 +71,7 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 :::
 
-## {.center .smaller}open source
+## open source {.center .smaller}
 
 :::: {.columns}
 
@@ -94,11 +93,11 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## {.center .smaller}collective
+## collective {.center .smaller}
 
 :::: {.columns}
 
@@ -124,11 +123,11 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## Communauté de pratique{.center .smaller}
+## Communauté de pratique {.center .smaller}
 
 :::: {.columns}
 
@@ -152,15 +151,15 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## nutriverse jusqu'à présent...{.center background-color="#004225"}
+## nutriverse jusqu'à présent... {.center background-color="#004225"}
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
@@ -174,55 +173,55 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 :::
 
-## {.center}du flux de travail des enquêtes anthropométriques
+## du flux de travail des enquêtes anthropométriques {.center}
 
 ![](images/anthro_survey.svg){fig-align="center"}
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## Évaluation alimentaire : processus de travail{.center}
+## Évaluation alimentaire: processus de travail {.center}
 
 ![](images/diet.svg){fig-align="center"}
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## Évaluation de la couverture du CMAM :{.center}
+## Évaluation de la couverture du CMAM {.center}
 
 ![](images/cmam.svg){fig-align="center"}
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## nutriverse et ses partenaires{.center background-color="#004225"}
+## nutriverse et ses partenaires {.center background-color="#004225"}
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## RapidSurveys{.center}
+## RapidSurveys {.center}
 
 ![](images/rapidsurveys.svg){fig-align="center"}
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## Quelles sont les autres possibilités et quelles sont les prochaines étapes ?{.center}
+## Quelles sont les autres possibilités et quelles sont les prochaines étapes? {.center}
 
 - Documentation et publication multilingues
 
@@ -234,15 +233,15 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## Communauté Nutriverse{.center background-color="#004225"}
+## Communauté nutriverse {.center background-color="#004225"}
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
@@ -254,11 +253,11 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## Notre communauté est notre plus grand atout, la diversité notre plus grande force.{.center}
+## Notre communauté est notre plus grand atout, la diversité notre plus grande force {.center}
 
 :::: {.columns}
 
@@ -296,11 +295,11 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## Découvrez{.center}
+## Découvrez {.center}
 
 :::: {.columns}
 
@@ -324,7 +323,7 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
@@ -352,11 +351,11 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## En savoir plus sur{.center}
+## En savoir plus sur {.center}
 
 :::: {.columns}
 
@@ -380,11 +379,11 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## Créer{.center}
+## Créer {.center}
 
 :::: {.columns}
 
@@ -410,11 +409,11 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## Soutenez{.center}
+## Soutenez {.center}
 
 :::: {.columns}
 
@@ -434,15 +433,15 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::::
 
-## Canaux de participation :{.center background-color="#004225"}
+## Canaux de participation {.center background-color="#004225"}
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## Zulip{.center .smaller}
+## Zulip {.center .smaller}
 
 :::: {.columns}
 
@@ -468,11 +467,11 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## GitHub{.center .smaller}
+## GitHub {.center .smaller}
 
 :::: {.columns}
 
@@ -498,11 +497,11 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## Réseaux sociaux :{.center}
+## Réseaux sociaux {.center}
 
 :::: {.columns}
 
@@ -550,11 +549,11 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## Site web{.center .smaller}
+## Website {.center .smaller}
 
 :::: {.columns}
 
@@ -578,11 +577,11 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## Appels communautaires{.center .smaller}
+## Appels communautaires {.center .smaller}
 
 :::: {.columns}
 
@@ -609,11 +608,11 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## Comment ces initiatives sont-elles financées ?{.center .smaller}
+## Comment ces initiatives sont-elles financées? {.center .smaller}
 
 :::: {.columns}
 
@@ -640,7 +639,7 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
@@ -648,19 +647,19 @@ nutriverse est un projet open source, un collectif et une communauté de pratiqu
 
 - Dans le cadre de l'hébergement fiscal, nous avons contacté des fondations et des institutions qui soutiennent les produits open source afin de financer les coûts liés aux développeurs et à la création d'une communauté.
 
-## Des questions ? Veuillez contacter{.center background-color="#004225"}
+## Des questions ? Veuillez contacter {.center background-color="#004225"}
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
-## Merci.{.center background-color="#004225"}
+## Merci {.center background-color="#004225"}
 
 ::: {.footer}
 
-[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
 :::
 
