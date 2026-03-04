@@ -1,0 +1,667 @@
+---
+title: nutriverse
+subtitle: Lancement du projet
+date: 27 February 2026
+date-modified: last-modified
+date-format: DD MMMM YYYY
+title-slide-attributes:
+  data-background-color: '#004225'
+  data-background-image: images/nutriverse_banner.png
+  data-background-size: auto
+  data-background-opacity: '0.5'
+---
+
+## Bienvenue sur{.center background-color="#004335"}
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## {background-iframe="
+" width="100%" height="100%"}<https://player.vimeo.com/video/1168715575?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;autoplay=1>
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## nutriverse ?{.center background-color="#004225"}
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## nutriverse est{.center}
+
+:::: {.columns}
+
+::: {.column width="33.33%"}
+
+![](images/open_source.svg){fig-align="center"}
+
+:::
+
+::: {.column width="33.33%"}
+
+![](images/collective.svg){fig-align="center"}
+
+:::
+
+::: {.column width="33.33%"}
+
+![](images/practice.svg){fig-align="center"}
+
+:::
+
+::::
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+::: {.notes}
+
+nutriverse est un projet open source, un collectif et une communauté de pratique.
+
+:::
+
+## {.center .smaller}open source
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/open_source_base.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+- Développement de packages R robustes, éprouvés et performants pour l'analyse des données nutritionnelles
+
+- Fournir des outils fiables qui prennent en charge l'ensemble du cycle de vie de l'analyse nutritionnelle, de la collecte et du nettoyage des données à l'analyse statistique, la modélisation et la création de rapports reproductibles.
+
+:::
+
+::::
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## {.center .smaller}collective
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Équipe principale composée de personnes engagées à transformer la manière dont les données nutritionnelles sont utilisées, comprises et partagées.
+
+- Nous sommes convaincus qu'une analyse plus efficace et plus transparente des données nutritionnelles peut contribuer à lutter contre les inégalités, à renforcer la santé publique et à soutenir des systèmes alimentaires qui profitent à tous.
+
+- Grâce à la collaboration et à des outils ouverts, nous encourageons des pratiques analytiques rigoureuses, reproductibles et responsables.
+
+- Nous partageons notre pouvoir et nos connaissances, soutenons le travail de chacun et transformons les données nutritionnelles en un moteur pour la justice sociale et sanitaire.
+
+:::
+
+::: {.column width="50%"}
+
+![](images/collective_base.png){fig-align="center"}
+
+:::
+
+::::
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Communauté de pratique{.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/practice_base.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+- Réunit des analystes de données nutritionnelles, des chercheurs et des praticiens qui s'engagent à apprendre les uns des autres.
+
+- Offre un espace commun pour échanger des méthodes, des outils et des expériences concrètes dans les domaines de la recherche, des politiques et de la pratique.
+
+- Grâce à l'apprentissage entre pairs, à la résolution collaborative de problèmes et à des discussions ouvertes, la communauté soutient des analyses rigoureuses et reproductibles.
+
+:::
+
+::::
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## nutriverse jusqu'à présent...{.center background-color="#004225"}
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## {.center}
+
+![](images/packages.svg){fig-align="center"}
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## {.center}du flux de travail des enquêtes anthropométriques
+
+![](images/anthro_survey.svg){fig-align="center"}
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Évaluation alimentaire : processus de travail{.center}
+
+![](images/diet.svg){fig-align="center"}
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Évaluation de la couverture du CMAM :{.center}
+
+![](images/cmam.svg){fig-align="center"}
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## nutriverse et ses partenaires{.center background-color="#004225"}
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## RapidSurveys{.center}
+
+![](images/rapidsurveys.svg){fig-align="center"}
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Quelles sont les autres possibilités et quelles sont les prochaines étapes ?{.center}
+
+- Documentation et publication multilingues
+
+- Ensembles de données pour l'accès aux informations nutritionnelles
+
+- Packages permettant de normaliser les données nutritionnelles afin d'assurer leur interopérabilité
+
+- Applications d'analyse nutritionnelle de qualité industrielle
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Communauté Nutriverse{.center background-color="#004225"}
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## {.center}
+
+### Allez vers les gens. Vivez avec eux. Apprenez d'eux. Aimez-les. Commencez par ce qu'ils savent. Construisez avec ce qu'ils ont. Mais avec les meilleurs leaders, lorsque le travail est terminé, la tâche accomplie, les gens diront**: « Nous l'avons fait nous-mêmes »**.
+
+#### \- Lao Tseu
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Notre communauté est notre plus grand atout, la diversité notre plus grande force.{.center}
+
+:::: {.columns}
+
+::: {.column width="20%"}
+
+![Découvrez](images/explore.svg){fig-align="center"}
+
+:::
+
+::: {.column width="20%"}
+
+![Lien](images/link.svg){fig-align="center"}
+
+:::
+
+::: {.column width="20%"}
+
+![En savoir](images/learn.svg){fig-align="center"}
+
+:::
+
+::: {.column width="20%"}
+
+![Créer](images/create.svg){fig-align="center"}
+
+:::
+
+::: {.column width="20%"}
+
+![Assistance](images/support.svg){fig-align="center"}
+
+:::
+
+::::
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Découvrez{.center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/explore.svg){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+- Explorez et découvrez des solutions qui facilitent la recherche et/ou le suivi et l'évaluation des programmes.
+
+- Accédez à des données ouvertes sur la santé et la nutrition
+
+- Explorez et découvrez des ressources sur les meilleures pratiques en matière de développement de logiciels
+
+:::
+
+::::
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Lien{.center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Rejoignez une communauté solidaire
+
+- Rencontrer et collaborer avec d'autres utilisateurs et développeurs des paquets nutriverse
+
+- Bénéficiez d'une visibilité au sein de la communauté scientifique ouverte R
+
+:::
+
+::: {.column width="50%"}
+
+![](images/link.svg){fig-align="center"}
+
+:::
+
+::::
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## En savoir plus sur{.center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/learn.svg){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+- Restez informé en lisant et en écoutant
+
+- Améliorez la reproductibilité de vos recherches et appliquez les meilleures pratiques dans votre travail
+
+- Développez vos compétences en R et en développement de logiciels
+
+:::
+
+::::
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Créer{.center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Améliorer et promouvoir la science ouverte dans votre domaine
+
+- Influencer le développement des paquets
+
+- Améliorer la documentation et les exemples relatifs aux paquets
+
+- Promouvoir les meilleures pratiques pour le développement R
+
+:::
+
+::: {.column width="50%"}
+
+![](images/create.svg){fig-align="center"}
+
+:::
+
+::::
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Soutenez{.center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/support.svg){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+- Soutenez Nutriverse ou contribuez à l'open source
+
+- Assister les autres membres de la communauté
+
+:::
+
+::::
+
+## Canaux de participation :{.center background-color="#004225"}
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Zulip{.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/zulip-icon-512x512.png){fig-align="center" width="300px"}
+
+:::
+
+::: {.column width="50%"}
+
+- Une application de chat d'équipe organisée conçue pour une communication efficace
+
+- Le forum accessible au public peut être consulté à l'adresse<https://nutriverse.zulipchat.com>
+
+- Pour participer à la discussion, vous devez être invité à rejoindre le groupe de discussion communautaire sur Zulip
+
+![](images/qrcode_nutriverse.zulipchat.com.png){fig-align="center" width="150px"}
+
+:::
+
+::::
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## GitHub{.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/GitHub_Invertocat_Black.png){fig-align="center"}
+
+:::
+
+::: {.column width=50%}
+
+- Fournisseur de services d'hébergement pour le développement de logiciels et le contrôle de version à l'aide de git
+
+- Comprend des fonctionnalités telles que le suivi des bogues, les demandes de fonctionnalités, la gestion des tâches, l'intégration continue et des wikis pour chaque projet
+
+- Réduit les obstacles à la collaboration
+
+![](images/qrcode_github.com.png){fig-align="center" width="150px"}
+
+:::
+
+::::
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Réseaux sociaux :{.center}
+
+:::: {.columns}
+
+::: {.column width="33.33%"}
+
+[![](images/mastodon_logo.png){fig-align="center" height="250px"}](https://mastodon.social/@nutriverse)
+
+:::
+
+::: {.column width="33.33%"}
+
+[![](images/Bluesky_Logo.svg){fig-align="center" height="250px"}](https://bsky.app/profile/nutriverse.io)
+
+:::
+
+::: {.column width="33.33%"}
+
+[![](images/LinkedIn_logo_initials.png){fig-align="center" height="250px"}](https://www.linkedin.com/company/nutriverse-community)
+
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="33.33%"}
+
+![](images/qrcode_mastodon.social.png){fig-align="center" width="150px"}
+
+:::
+
+::: {.column width="33.33%"}
+
+![](images/qrcode_bsky.app.png){fig-align="center" width="150px"}
+
+:::
+
+::: {.column width="33.33%"}
+
+![](images/qrcode_www.linkedin.com.png){fig-align="center" width="150px"}
+
+:::
+
+::::
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Site web{.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/qrcode_nutriverse.io.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+- Restez informé des dernières actualités et annonces sur le blog
+
+- Restez informé des dernières nouveautés concernant les packages Nutriverse, des meilleures pratiques en matière de développement logiciel et des conseils sur la science ouverte et les pratiques de recherche reproductibles grâce à nos notes techniques
+
+- Découvrez les derniers événements
+
+:::
+
+::::
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Appels communautaires{.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/practice_base.png){fig-align="center"}
+
+:::
+
+:::{.column width="50%"}
+
+- Appels communautaires trimestriels pour vous informer des derniers développements de Nutriverse.
+  
+  - les derniers développements de Nutriverse ;
+  - des projets actuels et nouveaux de Nutriverse ou des membres de notre communauté ;
+  - les meilleures pratiques ; et
+  - les questions-réponses avec nos développeurs Nutriverse ou des développeurs renommés de paquets et d'outils que les membres de notre communauté apprécient particulièrement.
+
+- **Le premier appel communautaire aura lieu le mercredi 18 mars 2026**avec la participation du Dr[Noam Ross](https://www.noamross.net/), directeur exécutif de[rOpenSci](https://ropensci.org/).
+
+:::
+
+::::
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Comment ces initiatives sont-elles financées ?{.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/osc_logo.png){fig-align="center"} ![](images/qrcode_opencollective.com.png)
+
+:::
+
+::: {.column width="50%"}
+
+- Tous les logiciels mis à la disposition de la communauté nutritionnelle depuis 2018 sans financement direct
+
+- Certaines ressources matérielles et contributions en nature par l'intermédiaire de partenaires
+  
+  - Université d'Oxford pour les ressources GitHub Pro (d'une valeur d'au moins 360 $/an)
+  - Services de messagerie et de chat pour l'équipe via Zulip (d'une valeur d'au moins 4 000 $/an)
+
+- Depuis le début de l'année 2026, nous avons la chance d'être hébergés financièrement par l'[Open Source Collective](https://oscollective.org/)
+
+:::
+
+::::
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Financement (suite)
+
+- Dans le cadre de l'hébergement fiscal, nous avons contacté des fondations et des institutions qui soutiennent les produits open source afin de financer les coûts liés aux développeurs et à la création d'une communauté.
+
+## Des questions ? Veuillez contacter{.center background-color="#004225"}
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+## Merci.{.center background-color="#004225"}
+
+::: {.footer}
+
+[EN](index.html)|[FR](index.fr.html)|[ES](index.es.html)
+
+:::
+
+

@@ -13,11 +13,29 @@ title-slide-attributes:
 
 ## Welcome {.center background-color="#004335"}
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## {background-iframe="https://player.vimeo.com/video/1168715575?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;autoplay=1" width="100%" height="100%"}
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## nutriverse? {.center background-color="#004225"}
+
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
 
 
 ## nutriverse is {.center}
@@ -45,12 +63,18 @@ title-slide-attributes:
 
 ::::
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
 
 ::: {.notes}
 
 nutriverse is an open source project, it is a collective, and a community of practice.
 
 :::
+
 
 ## Open source {.center .smaller}
 
@@ -71,6 +95,12 @@ nutriverse is an open source project, it is a collective, and a community of pra
 :::
 
 ::::
+
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
 
 
 ## Collective {.center .smaller}
@@ -97,6 +127,12 @@ nutriverse is an open source project, it is a collective, and a community of pra
 
 ::::
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## Community of practice {.center .smaller}
 
@@ -120,36 +156,84 @@ nutriverse is an open source project, it is a collective, and a community of pra
 
 ::::
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## nutriverse so far ... {.center background-color="#004225"}
+
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
 
 
 ## {.center}
 
 ![](images/packages.svg){fig-align="center"}
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## Anthropometric surveys workflow {.center}
 
 ![](images/anthro_survey.svg){fig-align="center"}
+
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
 
 
 ## Dietary assessment workflow {.center}
 
 ![](images/diet.svg){fig-align="center"}
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## CMAM coverage assessment workflow {.center}
 
 ![](images/cmam.svg){fig-align="center"}
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## nutriverse and friends {.center background-color="#004225"}
+
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
 
 
 ## RapidSurveys {.center}
 
 ![](images/rapidsurveys.svg){fig-align="center"}
+
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
 
 
 ## What else and what next? {.center}
@@ -162,8 +246,20 @@ nutriverse is an open source project, it is a collective, and a community of pra
 
 * Production-grade nutrition analytics applications
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## nutriverse community {.center background-color="#004225"}
+
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
 
 
 ## {.center}
@@ -171,6 +267,13 @@ nutriverse is an open source project, it is a collective, and a community of pra
 ### Go to the people. Live with them. Learn from them. Love them. Start with what they know. Build with what they have. But with the best leaders, when the work is done, the task accomplished, the people will say **‘We have done it ourselves’**.
 
 #### - Lao Tzu
+
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## Our community is our greatest asset, diversity our greatest strength {.center}
 
@@ -208,6 +311,12 @@ nutriverse is an open source project, it is a collective, and a community of pra
 
 ::::
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## Explore {.center}
 
@@ -230,6 +339,12 @@ nutriverse is an open source project, it is a collective, and a community of pra
 :::
 
 ::::
+
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
 
 
 ## Link {.center}
@@ -254,6 +369,12 @@ nutriverse is an open source project, it is a collective, and a community of pra
 
 ::::
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## Learn {.center}
 
@@ -276,6 +397,12 @@ nutriverse is an open source project, it is a collective, and a community of pra
 :::
 
 ::::
+
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
 
 
 ## Create {.center}
@@ -302,6 +429,12 @@ nutriverse is an open source project, it is a collective, and a community of pra
 
 ::::
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## Support {.center}
 
@@ -325,6 +458,12 @@ nutriverse is an open source project, it is a collective, and a community of pra
 
 
 ## Channels of participation {.center background-color="#004225"}
+
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
 
 
 ## Zulip {.center .smaller}
@@ -351,6 +490,12 @@ nutriverse is an open source project, it is a collective, and a community of pra
 
 ::::
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## GitHub {.center .smaller}
 
@@ -375,6 +520,12 @@ nutriverse is an open source project, it is a collective, and a community of pra
 :::
 
 ::::
+
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
 
 
 ## Socials {.center}
@@ -423,6 +574,12 @@ nutriverse is an open source project, it is a collective, and a community of pra
 
 ::::
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## Website {.center .smaller}
 
@@ -445,6 +602,12 @@ nutriverse is an open source project, it is a collective, and a community of pra
 :::
 
 ::::
+
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
 
 
 ## Community Calls {.center .smaller}
@@ -472,6 +635,12 @@ nutriverse is an open source project, it is a collective, and a community of pra
 
 ::::
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## How are all these funded? {.center .smaller}
 
@@ -498,6 +667,12 @@ nutriverse is an open source project, it is a collective, and a community of pra
 
 ::::
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## Funding (continued)
 
@@ -506,16 +681,18 @@ nutriverse is an open source project, it is a collective, and a community of pra
 
 ## Questions? {.center background-color="#004225"}
 
+::: {.footer}
+
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
+
+:::
+
 
 ## Thank you! {.center background-color="#004225"}
 
+::: {.footer}
 
+[EN](index.html) | [FR](index.fr.html) | [ES](index.es.html)
 
-
-
-
-
-
-
-
+:::
 
