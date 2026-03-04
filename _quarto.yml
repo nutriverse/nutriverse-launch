@@ -9,7 +9,7 @@ format:
       buttons: false
     preview-links: auto
     # logo: images/nutriverse_banner_bi.png
-    footer: "[nutriverse](https://nutriverse.io)"
+    #footer: "[nutriverse](https://nutriverse.io)"
     css: styles.css
     include-after-body: title_page.html
 
